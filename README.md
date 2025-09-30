@@ -1,7 +1,12 @@
 # 🔐 Awesome Responsive Login Form
 
 A beautiful and fully responsive login form built with pure HTML and CSS. This project showcases modern web design principles with smooth animations, clean UI, and mobile-first approach - all without a single line of JavaScript! <br>
-<b>Note:<b> If you see dangerous site error please turn off your "Deceptive Content and Dangerous Software Protection" in your settings.this is a bug i will try to fix it as soon as possible or support me if you know how to fix it.Thank 🧒 <br>
+<b>Note:<b> If you don't want to be warned about unsafe sites, you can turn off Safe Browsing in Chrome. This also turns off download warnings. <br>
+Important: We do not recommend turning off Safe Browsing.<br>
+On your computer, open Chrome.<br>
+At the top right, click More Moreand then Settings.<br>
+Click Privacy and security and then Security.<br>
+Under "Safe Browsing," choose No protection 🧒 <br>
 ## 📞 Contact 
 
 Have questions or suggestions? Feel free to reach out!
