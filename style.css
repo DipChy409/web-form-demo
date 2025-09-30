@@ -15,9 +15,9 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: rgb(88, 88, 88) no-repeat;
+  background: rgb(93, 93, 93) no-repeat;
   background-size: cover;
-  /* background-position: center; */
+  background-position: center;
 }
 .container {
   width: 420px;
